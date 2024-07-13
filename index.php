@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en" class="ie_11_scroll">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="hhhwidth=device-width, initial-scale=1">
+        <title>App Landing Page</title>
+
+        <!-- CSS -->
+        <link rel="stylesheet" href="css/bootstrap.min.css">
+        <link rel="stylesheet" href="css/font-awesome.min.css">
+        <link rel="stylesheet" href="css/templatemo_style.css">
+        <!-- Favicon and touch icons -->
+        <link rel="shortcut icon" href="favicon.png" />
+       
+    </head>
+    <body>
+        
+        <!-- Home -->
+        <section id="templatemo_home">
+            <div class="container">
+                <div class="templatemo_home_inner_wapper">
+                    <h1 class="text-center">TechPioneers Lab</h1>
+                </div>
+                <div class="templatemo_home_inner_wapper">
+                    <p class="text-center">
+                        Creates cutting-edge, user-friendly apps to simplify everyday tasks. Experience the future of app development with us.
+                    </p>
+                </div>
+            </div>
+        </section>
+        <!-- Download -->
+        <section id="templatemo_download">
+            <div class="container">
+                <div class="logo-container">
+                    <img src="images/app_logo.jpg" alt="App Logo" class="app-logo">
+                </div>
+                <div class="templatemo_home_inner_wapper">
+                    <h1 class="text-center" style="color: white;">GPS Location Faker</h1>
+                </div>
+                <div class="templatemo_download_text_wapper">
+                    <p>
+                        Change your phone's location anywhere on Earth with one tap using our GPS mocking capabilities.
+                    </p>
+                </div>
+                <div class="col-xs-12">
+                    <a href="https://play.google.com/store/apps/details?id=fake.gps.location.emulator" class="shadow-top-down"><img src="images/download_btn.png"/></a>
+                </div>
+            </div>
+        </section>
+        <!-- Footer -->
+        <footer>
+            <div class="container">
+                <div class="row">
+                    <div class="col-xs-12 footer-copyright">
+                        <p>Copyright &copy; 2024 <a href="#" target="_parent">TechPioneers Lab</a></p>
+                    </div>
+                </div>
+            </div>
+        </footer>
+        <script src="js/jquery.min.js"></script>
+        <script src="js/jquery-ui.min.js"></script>
+        <script src="js/bootstrap.min.js"></script>
+        <script src="js/jquery.parallax.js"></script>
+        <script src="js/templatemo_scripts.js"></script>
+    </body>
+</html>
